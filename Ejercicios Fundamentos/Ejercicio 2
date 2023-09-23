@@ -1,0 +1,15 @@
+# <span style="color: #000000; font-weight: bold;">Ejercicio 2</span>
+
+
+## <span style="color: #000000; font-weight: bold;">Enunciado:</span>
+>Programa que calcula la edad dado el año de nacimiento y el año actual.
+
+## <span style="color: #000000; font-weight: bold;">Análisis:</span>
+> 1.  Se pide el año de nacimiento.
+> 2.  Se pide el año actual .
+> 3.  Se resta el año de nacimiento al año actual.
+
+
+## <span style="color: #000000; font-weight: bold;">Diagrama de Flujo :</span>
+
+## <span style="color: #000000; font-weight: bold;">  Prueba de Escritorio </span>
